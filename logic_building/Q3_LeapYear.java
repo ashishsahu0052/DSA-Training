@@ -35,3 +35,7 @@ public class Q3_LeapYear {
 // gradinggg system
 // absolute diffrence calculator
 // sum of digit
+// lcm
+// gcd
+// perfect number , sum of proper divisor = number
+// frequency of digit

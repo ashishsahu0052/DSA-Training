@@ -11,7 +11,7 @@ public class Q4_RotateNumber {
             count++;
             temp = temp / 10;
         }
-        System.out.println(count);
+        // System.out.println(count);
         int pow = (int) Math.pow(10, count - 1);
         for (int i = 0; i < k; i++) {
             int lastDigit = num % 10;
