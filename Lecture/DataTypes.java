@@ -1,3 +1,5 @@
+package Lecture;
+
 public class DataTypes {
     int h; // instance variable - object creaaetion time initq
     static int hw; // class variable - class lpad time imit

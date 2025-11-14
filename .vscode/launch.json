@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Q13_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q13_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q6_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q6_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q12_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q12_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q12_pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q12_pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q11_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q11_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q10_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q10_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q8_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q8_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q7_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q7_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q5_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q5_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q4_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q4_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q3_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q3_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q2_pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q2_pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q2_Pattern",
+            "request": "launch",
+            "mainClass": "Q2_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q1_Pattern",
+            "request": "launch",
+            "mainClass": "Nested_loops.Q1_Pattern",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Q12_PasswordValidator",
+            "request": "launch",
+            "mainClass": "logic_building.Q12_PasswordValidator",
+            "projectName": "dsa_training_b741ebc8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
