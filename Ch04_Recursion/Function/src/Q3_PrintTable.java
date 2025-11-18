@@ -23,3 +23,7 @@ public class Q3_PrintTable {
     }
 
 }
+
+// resursion with void
+// Atoi - alphabet to integer a = "7420" to b 7420 play on ascii values
+//
