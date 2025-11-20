@@ -1,4 +1,4 @@
-public class ArraySortedOrNot {
+public class Q8_ArraySortedOrNot {
     static boolean isSorted(int arr[], int index) {
         // base cse
         if (index == arr.length - 1) {
